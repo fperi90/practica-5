@@ -1,0 +1,14 @@
+for i in range(10):
+    print(i+1,end=" ")
+print ("\n")
+for i in range(10):
+    print((i+1)*2,end=" ")
+print("\n")
+for i in range(10):
+    print(20+(i*2),end=" ")
+print("\n")
+for i in range(6):
+    print(10+(i*4),end=" ")
+print("\n")
+for i in range(9):
+    print(40-(i*5),end=" ")
